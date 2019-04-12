@@ -1,1 +1,1 @@
-https://dronom.github.com/Dronom/hexal/
+https://dronom.github.io/hexal/
